@@ -1,1 +1,1 @@
-ECHO est  ativado.
+Isso é um teste
